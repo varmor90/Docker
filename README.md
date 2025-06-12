@@ -38,7 +38,7 @@ To understand how to:
 - Solve real-world DevOps problems (timing, environment configs, volumes, secrets)
 - Learn the cloud-native way of deploying PHP/Laravel apps using AWS services
 
-This lab lays the groundwork for future expansion into **Kubernetes deployment**, which will be tracked in a separate folder (`/kubernetes-deployment/` – coming soon).
+This lab lays the groundwork for future expansion into **Kubernetes**
 
 ---
 
